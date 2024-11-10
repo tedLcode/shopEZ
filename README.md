@@ -94,8 +94,8 @@ Here's a "Contact" section to add to your README:
 For any questions, feedback, or inquiries, feel free to reach out:
 
 - **Project Owner**: Sabari Sriram
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Sabari Sriram's LinkedIn](https://www.linkedin.com/in/your-profile)
+- **Email**: [sabarisriram10@outlook.com](mailto:sabarisriram10@outlook.com)
+- **LinkedIn**: [Sabari Sriram's LinkedIn](https://www.linkedin.com/in/sabarisriram10/)
 - **GitHub**: [GitHub Profile](https://github.com/tedLcode)
 
 Feel free to open an issue if you encounter any bugs or have suggestions to improve the project
