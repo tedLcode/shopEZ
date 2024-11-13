@@ -93,17 +93,6 @@ Here's a "Contact" section to add to your README:
 
 For any questions, feedback, or inquiries, feel free to reach out:
 
-Sabari Sriram V - Frontend Developer & Team Lead: Responsible for leading the team and developing the user interface, focusing on creating reusable UI components and ensuring a smooth user experience.
-
-Mugeshwaran B - Backend Developer: Focuses on setting up server-side functionalities, implementing APIs, and managing data flow between the frontend and backend.
-
-Ruhasan J - Database Manager: Manages database schema design, ensuring efficient data storage and retrieval for users, complaints, and messages.
-
-Ravishankar Kumar - Frontend Developer: Works on styling and layout design using Bootstrap and Material UI to enhance the visual appeal and usability of the application.
-
-Saddam Hussain - Quality Assurance & Documentation: Handles testing to ensure smooth functionality, along with documenting project development processes and user guidelines.
-
-
 - **Project Owner**: Sabari Sriram
 - **Email**: [sabarisriram10@outlook.com](mailto:sabarisriram10@outlook.com)
 - **LinkedIn**: [Sabari Sriram's LinkedIn](https://www.linkedin.com/in/sabarisriram10/)
