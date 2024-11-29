@@ -15,7 +15,7 @@ app.use(cors());
 
 const PORT = 6001;
 
-mongoose.connect('mongodb+srv://sabarisriram10:pD5UlSEanoItGmtf@cluster0.7fzwh.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0',{
+mongoose.connect('mongodb://localhost:27017/shopEZ',{
     useNewUrlParser: true,
 }).then(()=>{
 
