@@ -15,7 +15,8 @@ app.use(cors());
 
 const PORT = 6001;
 
-mongoose.connect('mongodb://localhost:27017/shopEZ',{
+mongoose.connect('mongodb+srv://sabari:J9KhWjjQ7kLrF451
+@myatlasclusteredu.c8zoa.mongodb.net/?retryWrites=true&w=majority&appName=myAtlasClusterEDU',{
     useNewUrlParser: true,
 }).then(()=>{
 
