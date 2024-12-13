@@ -15,8 +15,7 @@ app.use(cors());
 
 const PORT = 6001;
 
-mongoose.connect('mongodb+srv://sabari:J9KhWjjQ7kLrF451
-@myatlasclusteredu.c8zoa.mongodb.net/?retryWrites=true&w=majority&appName=myAtlasClusterEDU',{
+mongoose.connect('mongodb+srv://sabarisriram:Sabari10@myatlasclusteredu.c8zoa.mongodb.net/?retryWrites=true&w=majority&appName=myAtlasClusterEDU',{
     useNewUrlParser: true,
 }).then(()=>{
 
